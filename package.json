@@ -1,0 +1,1 @@
+{"description":"Agentics Forum (AFO) — a real coin launched on pump.fun for make.fun's Launch a coin that sells make.fun bounty.","license":"MIT","main":"main.ts","name":"agentics-forum-afo","scripts":{"verify":"mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts"},"type":"module","version":"1.0.0"}

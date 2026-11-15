@@ -1,0 +1,6 @@
+node_modules/
+out/
+.env
+*-keypair.json
+*.tar.gz
+.DS_Store
